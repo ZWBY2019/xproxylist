@@ -1,6 +1,6 @@
 {
-	"wait time":[
-		{"start delay": 5},
-		{"link delay": 5}
-	]
+	"wait_time": {
+		"start_delay": 5,
+		"link_delay": 5
+	}
 }
